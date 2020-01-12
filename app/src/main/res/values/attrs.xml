@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="customLabel" format="reference"></attr>
+
+    <declare-styleable name="CustomLabel">
+        <attr name="text" format="string" />
+    </declare-styleable>
+
+</resources>
